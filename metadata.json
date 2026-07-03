@@ -1,0 +1,8 @@
+{
+  "name": "Remix: برنامج المبيعات المتكامل",
+  "description": "نظام مبيعات ومشتريات ومخزون متكامل مع إمكانية استيراد وتصدير البيانات عبر Excel وتقارير تفصيلية - حقوق الطبع محفوظة لحسن موسى",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
